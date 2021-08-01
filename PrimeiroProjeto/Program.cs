@@ -4,8 +4,6 @@ using System.Globalization;
 namespace PrimeiroProjeto {
     class Program {
         static void Main(string[] args) {
-
-            char genero = 'F';
             int idade = 32;
             double saldo = 10.35784;
             string nome = "Maria";
